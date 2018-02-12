@@ -1,0 +1,10 @@
+{
+    "server" : {
+        "address" : "amqp://tematre:210965Nikitka@80.87.195.177:5672",
+        "inputQueue" : "VkInput",
+        "outputQueue" : "VkOutput"
+    },
+    "vk" : {
+        "token" : "6e58605c3614b2019f67f745d0620b9d6368b67dbcdb388d87327b414c57bc6f45393c74842bbc5f82a5a"
+    }
+}

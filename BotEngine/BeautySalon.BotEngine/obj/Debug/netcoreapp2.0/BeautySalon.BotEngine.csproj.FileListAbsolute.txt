@@ -1,0 +1,11 @@
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\bin\Debug\netcoreapp2.0\BeautySalon.BotEngine.deps.json
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\bin\Debug\netcoreapp2.0\BeautySalon.BotEngine.dll
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\obj\Debug\netcoreapp2.0\BeautySalon.BotEngine.csprojResolveAssemblyReference.cache
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\obj\Debug\netcoreapp2.0\BeautySalon.BotEngine.csproj.CoreCompileInputs.cache
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\obj\Debug\netcoreapp2.0\BeautySalon.BotEngine.AssemblyInfoInputs.cache
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\obj\Debug\netcoreapp2.0\BeautySalon.BotEngine.AssemblyInfo.cs
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\bin\Debug\netcoreapp2.0\BeautySalon.BotEngine.pdb
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\bin\Debug\netcoreapp2.0\BeautySalon.BotEngine.Core.Bll.dll
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\bin\Debug\netcoreapp2.0\BeautySalon.BotEngine.Core.Bll.pdb
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\obj\Debug\netcoreapp2.0\BeautySalon.BotEngine.dll
+C:\tmp\BeautySalon\BotEngine\BeautySalon.BotEngine\obj\Debug\netcoreapp2.0\BeautySalon.BotEngine.pdb
