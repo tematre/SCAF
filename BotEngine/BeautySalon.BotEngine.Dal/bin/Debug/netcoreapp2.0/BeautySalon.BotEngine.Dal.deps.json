@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "BeautySalon.BotEngine.Dal/1.0.0": {
+        "dependencies": {
+          "BeautySalon.BotEngine.Core": "1.0.0",
+          "BeautySalon.BotEngine.Core.Dal": "1.0.0"
+        },
         "runtime": {
           "BeautySalon.BotEngine.Dal.dll": {}
+        }
+      },
+      "BeautySalon.BotEngine.Core/1.0.0": {
+        "runtime": {
+          "BeautySalon.BotEngine.Core.dll": {}
+        }
+      },
+      "BeautySalon.BotEngine.Core.Dal/1.0.0": {
+        "dependencies": {
+          "BeautySalon.BotEngine.Core": "1.0.0"
+        },
+        "runtime": {
+          "BeautySalon.BotEngine.Core.Dal.dll": {}
         }
       }
     }
   },
   "libraries": {
     "BeautySalon.BotEngine.Dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeautySalon.BotEngine.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeautySalon.BotEngine.Core.Dal/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

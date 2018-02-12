@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautySalon.BotEngine.Bll",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautySalon.BotEngine.Dal", "BeautySalon.BotEngine.Dal\BeautySalon.BotEngine.Dal.csproj", "{8514571A-6BBA-42ED-80A5-98A753D814E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotEngine.Dal.DbMigrations", "BotEngine.Dal.DbMigrations\BotEngine.Dal.DbMigrations.csproj", "{DAAB3A8B-8514-47EA-A765-D97DB6C99B9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{8514571A-6BBA-42ED-80A5-98A753D814E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8514571A-6BBA-42ED-80A5-98A753D814E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8514571A-6BBA-42ED-80A5-98A753D814E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAB3A8B-8514-47EA-A765-D97DB6C99B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAB3A8B-8514-47EA-A765-D97DB6C99B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAB3A8B-8514-47EA-A765-D97DB6C99B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAB3A8B-8514-47EA-A765-D97DB6C99B9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
