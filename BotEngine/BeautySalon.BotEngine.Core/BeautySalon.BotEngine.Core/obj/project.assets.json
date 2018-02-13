@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.csproj",
-      "projectName": "BeautySalon.BotEngine.Core",
-      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.csproj",
+      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj",
+      "projectName": "BotEngine.Core",
+      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
       "outputPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\obj\\",
       "projectStyle": "PackageReference",

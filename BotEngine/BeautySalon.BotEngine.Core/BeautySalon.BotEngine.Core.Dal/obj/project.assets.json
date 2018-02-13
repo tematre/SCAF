@@ -197,14 +197,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "BeautySalon.BotEngine.Core/1.0.0": {
+      "BotEngine.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "compile": {
-          "bin/placeholder/BeautySalon.BotEngine.Core.dll": {}
+          "bin/placeholder/BotEngine.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BeautySalon.BotEngine.Core.dll": {}
+          "bin/placeholder/BotEngine.Core.dll": {}
         }
       }
     }
@@ -667,15 +667,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "BeautySalon.BotEngine.Core/1.0.0": {
+    "BotEngine.Core/1.0.0": {
       "type": "project",
-      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.csproj",
-      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.csproj"
+      "path": "../BeautySalon.BotEngine.Core/BotEngine.Core.csproj",
+      "msbuildProject": "../BeautySalon.BotEngine.Core/BotEngine.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "BeautySalon.BotEngine.Core >= 1.0.0",
+      "BotEngine.Core >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -689,9 +689,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\BeautySalon.BotEngine.Core.Dal.csproj",
-      "projectName": "BeautySalon.BotEngine.Core.Dal",
-      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\BeautySalon.BotEngine.Core.Dal.csproj",
+      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\BotEngine.Core.Dal.csproj",
+      "projectName": "BotEngine.Core.Dal",
+      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\BotEngine.Core.Dal.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
       "outputPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\obj\\",
       "projectStyle": "PackageReference",
@@ -712,8 +712,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.csproj": {
-              "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.csproj"
+            "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj": {
+              "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj"
             }
           }
         }

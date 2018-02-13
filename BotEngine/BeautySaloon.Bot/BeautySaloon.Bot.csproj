@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core.csproj" />
+    <ProjectReference Include="..\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core\BotEngine.Core.csproj" />
   </ItemGroup>
 
 </Project>
