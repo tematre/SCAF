@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotEngine.Dal", "BeautySalo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotEngine.Dal.DbMigrations", "BotEngine.Dal.DbMigrations\BotEngine.Dal.DbMigrations.csproj", "{DAAB3A8B-8514-47EA-A765-D97DB6C99B9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotEngine.AutofacBuilder", "BotEngine.AutofacBuilder\BotEngine.AutofacBuilder.csproj", "{61F299FC-832A-497A-89C1-FDBBD7939F17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotEngine.AutofacBinding", "BotEngine.AutofacBuilder\BotEngine.AutofacBinding.csproj", "{61F299FC-832A-497A-89C1-FDBBD7939F17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

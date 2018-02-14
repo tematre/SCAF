@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Host\\BotEngine.Host.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Host\\BotEngine.Host.csproj",
       "projectName": "BotEngine.Host",
-      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Host\\BotEngine.Host.csproj",
+      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Host\\BotEngine.Host.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Host\\obj\\",
+      "outputPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Host\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6,6 +6,8 @@ namespace BeautySalon.BotEngine.Core.Events
 {
     public interface IEventTrigger
     {
+        IUniqObject Owner { get; }
+
         bool Check(out IEventArguments arguments);
     }
 }

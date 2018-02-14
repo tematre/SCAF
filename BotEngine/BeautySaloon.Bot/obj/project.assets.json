@@ -689,11 +689,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySaloon.Bot\\BeautySaloon.Bot.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySaloon.Bot\\BeautySaloon.Bot.csproj",
       "projectName": "BeautySaloon.Bot",
-      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySaloon.Bot\\BeautySaloon.Bot.csproj",
+      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySaloon.Bot\\BeautySaloon.Bot.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySaloon.Bot\\obj\\",
+      "outputPath": "C:\\tmp\\botframework\\BotEngine\\BeautySaloon.Bot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -712,8 +712,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj": {
-              "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj"
+            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj"
             }
           }
         }

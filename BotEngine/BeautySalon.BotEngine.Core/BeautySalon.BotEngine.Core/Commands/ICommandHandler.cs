@@ -6,6 +6,8 @@ namespace BeautySalon.BotEngine.Core.Commands
 {
     public interface ICommandHandler 
     {
+        IUniqObject Owner { get; }
+
         void Handle(ICommandParameters parameters);
     }
 }

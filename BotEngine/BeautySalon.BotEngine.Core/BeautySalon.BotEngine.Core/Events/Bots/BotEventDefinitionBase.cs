@@ -10,5 +10,8 @@ namespace BeautySalon.BotEngine.Core.Events.Bots
                                                                     where EventArguments : IEventArguments
     {
         public string Token { get; set; }
+
+        public IUniqObject Owner { get; }
+
     }
 }

@@ -6,5 +6,8 @@ namespace BeautySalon.BotEngine.Core.Dal
 {
     public class BotInstanceEntity
     {
+        public Guid Id { get; set; }
+
+        public Guid TypeId { get; set; }
     }
 }

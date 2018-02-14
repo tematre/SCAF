@@ -10,6 +10,6 @@ namespace BeautySalon.BotEngine.Core
 
         void SaveState<T>(string key, T data);
 
-        T RestoreState<T>();
+        T RestoreState<T>(string key);
     }
 }

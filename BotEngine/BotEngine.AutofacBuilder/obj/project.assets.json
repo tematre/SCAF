@@ -891,11 +891,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.AutofacBuilder\\BotEngine.AutofacBuilder.csproj",
-      "projectName": "BotEngine.AutofacBuilder",
-      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.AutofacBuilder\\BotEngine.AutofacBuilder.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BotEngine.AutofacBuilder\\BotEngine.AutofacBinding.csproj",
+      "projectName": "BotEngine.AutofacBinding",
+      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.AutofacBuilder\\BotEngine.AutofacBinding.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.AutofacBuilder\\obj\\",
+      "outputPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.AutofacBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

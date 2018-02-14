@@ -6,5 +6,8 @@ namespace BeautySalon.BotEngine.Core.Dal.Entities
 {
     public class BotTypeEntity
     {
+        public string Type { get; set; }
+
+        public string SettingsType { get; set; }
     }
 }

@@ -210,11 +210,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.Dal.DbMigrations\\BotEngine.Dal.DbMigrations.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Dal.DbMigrations\\BotEngine.Dal.DbMigrations.csproj",
       "projectName": "BotEngine.Dal.DbMigrations",
-      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.Dal.DbMigrations\\BotEngine.Dal.DbMigrations.csproj",
+      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Dal.DbMigrations\\BotEngine.Dal.DbMigrations.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.Dal.DbMigrations\\obj\\",
+      "outputPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Dal.DbMigrations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13124,11 +13124,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.Api\\BotEngine.WebApi.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Api\\BotEngine.WebApi.csproj",
       "projectName": "BotEngine.WebApi",
-      "projectPath": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.Api\\BotEngine.WebApi.csproj",
+      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Api\\BotEngine.WebApi.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\BeautySalon\\BotEngine\\BotEngine.Api\\obj\\",
+      "outputPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
