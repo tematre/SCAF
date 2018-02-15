@@ -21,9 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartControllerAutomationFr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartControllerAutomationFramework.Dal", "SmartControllerAutomationFramework.Dal\SmartControllerAutomationFramework.Dal.csproj", "{8514571A-6BBA-42ED-80A5-98A753D814E8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartControllerAutomationFramework.Dal.DbMigrations", "BotEngine.Dal.DbMigrations\SmartControllerAutomationFramework.Dal.DbMigrations.csproj", "{DAAB3A8B-8514-47EA-A765-D97DB6C99B9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartControllerAutomationFramework.Dal.DbMigrations", "SmartControllerAutomationFramework.Dal.DbMigrations\SmartControllerAutomationFramework.Dal.DbMigrations.csproj", "{DAAB3A8B-8514-47EA-A765-D97DB6C99B9B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartControllerAutomationFramework.AutofacBinding", "BotEngine.AutofacBuilder\SmartControllerAutomationFramework.AutofacBinding.csproj", "{61F299FC-832A-497A-89C1-FDBBD7939F17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartControllerAutomationFramework.AutofacBinding", "SmartControllerAutomationFramework.AutofacBuilder\SmartControllerAutomationFramework.AutofacBinding.csproj", "{61F299FC-832A-497A-89C1-FDBBD7939F17}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example", "Example", "{B7536811-06D5-4108-8FF4-6ADB44A8FC7A}"
 EndProject

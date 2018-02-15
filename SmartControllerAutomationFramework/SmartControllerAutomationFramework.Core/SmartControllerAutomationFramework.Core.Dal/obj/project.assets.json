@@ -196,16 +196,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "SmartControllerAutomationFramework.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
-        }
       }
     }
   },
@@ -666,17 +656,12 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "SmartControllerAutomationFramework.Core/1.0.0": {
-      "type": "project",
-      "path": "../BeautySalon.BotEngine.Core/SmartControllerAutomationFramework.Core.csproj",
-      "msbuildProject": "../BeautySalon.BotEngine.Core/SmartControllerAutomationFramework.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0",
-      "SmartControllerAutomationFramework.Core >= 1.0.0"
+      "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj",
+      "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -689,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj",
       "projectName": "SmartControllerAutomationFramework.Core.Dal",
-      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj",
+      "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\obj\\",
+      "outputPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -712,8 +697,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj": {
-              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj"
+            "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj"
             }
           }
         }
@@ -741,5 +726,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }

@@ -891,11 +891,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BotEngine.AutofacBuilder\\SmartControllerAutomationFramework.AutofacBinding.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.AutofacBuilder\\SmartControllerAutomationFramework.AutofacBinding.csproj",
       "projectName": "SmartControllerAutomationFramework.AutofacBinding",
-      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.AutofacBuilder\\SmartControllerAutomationFramework.AutofacBinding.csproj",
+      "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.AutofacBuilder\\SmartControllerAutomationFramework.AutofacBinding.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.AutofacBuilder\\obj\\",
+      "outputPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.AutofacBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

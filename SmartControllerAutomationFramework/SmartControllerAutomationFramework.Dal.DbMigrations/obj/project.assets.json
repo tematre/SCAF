@@ -210,11 +210,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Dal.DbMigrations\\SmartControllerAutomationFramework.Dal.DbMigrations.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Dal.DbMigrations\\SmartControllerAutomationFramework.Dal.DbMigrations.csproj",
       "projectName": "SmartControllerAutomationFramework.Dal.DbMigrations",
-      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Dal.DbMigrations\\SmartControllerAutomationFramework.Dal.DbMigrations.csproj",
+      "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Dal.DbMigrations\\SmartControllerAutomationFramework.Dal.DbMigrations.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\botframework\\BotEngine\\BotEngine.Dal.DbMigrations\\obj\\",
+      "outputPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Dal.DbMigrations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
