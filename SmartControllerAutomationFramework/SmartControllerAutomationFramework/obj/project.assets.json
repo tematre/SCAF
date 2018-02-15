@@ -1176,6 +1176,16 @@
         "compile": {
           "ref/netstandard1.2/System.Threading.Timer.dll": {}
         }
+      },
+      "SmartControllerAutomationFramework.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
+        }
       }
     }
   },
@@ -4177,13 +4187,19 @@
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
       ]
+    },
+    "SmartControllerAutomationFramework.Core/1.0.0": {
+      "type": "project",
+      "path": "../SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core.csproj",
+      "msbuildProject": "../SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj",
       "Microsoft.NETCore.App >= 2.0.0",
-      "RabbitMQ.Client >= 5.0.1"
+      "RabbitMQ.Client >= 5.0.1",
+      "SmartControllerAutomationFramework.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4221,6 +4237,9 @@
           "projectReferences": {
             "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj": {
               "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj"
+            },
+            "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.csproj"
             }
           }
         }

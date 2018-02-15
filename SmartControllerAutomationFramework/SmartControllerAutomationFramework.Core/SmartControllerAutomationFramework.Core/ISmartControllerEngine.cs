@@ -3,9 +3,9 @@ using BeautySalon.BotEngine.Core.Events;
 
 namespace BeautySalon.BotEngine.Core
 {
-    public interface IBotEngine
+    public interface ISmartControllerEngine
     {
-        void Initialize(IBotManager botManager);
+        void Initialize(ISmartControllerManager botManager);
 
         void Start();
 

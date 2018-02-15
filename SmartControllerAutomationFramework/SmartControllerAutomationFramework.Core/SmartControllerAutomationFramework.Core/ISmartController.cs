@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace BeautySalon.BotEngine.Core
 {
-    public interface IBot : IUniqObject, ILifecicleObject
+    public interface ISmartController : IUniqObject, ILifecicleObject
     {
         IEnumerable<ICommandDefinition> SupportedCommands { get; }
 

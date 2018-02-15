@@ -11,7 +11,7 @@ namespace BeautySalon.BotEngine.Common
 
         public IEnumerable<T> Objects => _objects;
 
-        public void RegisterCommand(T obj)
+        public void Register(T obj)
         {
             if(_objects.Contains(obj))
             {

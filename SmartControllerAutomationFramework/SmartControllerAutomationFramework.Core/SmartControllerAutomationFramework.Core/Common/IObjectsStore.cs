@@ -6,7 +6,7 @@ namespace BeautySalon.BotEngine.Core.Common
 {
     public interface IObjectsStore<T>
     {
-        void RegisterCommand(T obj);
+        void Register(T obj);
 
         void Unregister(T obj);
 
