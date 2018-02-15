@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Converters\**" />
+    <EmbeddedResource Remove="Converters\**" />
+    <None Remove="Converters\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core.Bll\SmartControllerAutomationFramework.Core.Bll.csproj" />
+    <ProjectReference Include="..\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core.Dal\SmartControllerAutomationFramework.Core.Dal.csproj" />
+    <ProjectReference Include="..\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core\SmartControllerAutomationFramework.Core.csproj" />
+  </ItemGroup>
+
+</Project>

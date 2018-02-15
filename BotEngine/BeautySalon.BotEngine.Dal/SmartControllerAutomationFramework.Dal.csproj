@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core.Dal\SmartControllerAutomationFramework.Core.Dal.csproj" />
+    <ProjectReference Include="..\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core\SmartControllerAutomationFramework.Core.csproj" />
+  </ItemGroup>
+
+</Project>

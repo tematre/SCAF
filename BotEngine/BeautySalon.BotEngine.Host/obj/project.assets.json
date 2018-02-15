@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Host\\BotEngine.Host.csproj",
-      "projectName": "BotEngine.Host",
-      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Host\\BotEngine.Host.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Host\\SmartControllerAutomationFramework.Host.csproj",
+      "projectName": "SmartControllerAutomationFramework.Host",
+      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Host\\SmartControllerAutomationFramework.Host.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
       "outputPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Host\\obj\\",
       "projectStyle": "PackageReference",

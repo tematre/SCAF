@@ -1177,14 +1177,14 @@
           "ref/netstandard1.2/System.Threading.Timer.dll": {}
         }
       },
-      "BotEngine.Core/1.0.0": {
+      "SmartControllerAutomationFramework.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "compile": {
-          "bin/placeholder/BotEngine.Core.dll": {}
+          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BotEngine.Core.dll": {}
+          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
         }
       }
     }
@@ -4188,17 +4188,17 @@
         "ref/xamarinwatchos10/_._"
       ]
     },
-    "BotEngine.Core/1.0.0": {
+    "SmartControllerAutomationFramework.Core/1.0.0": {
       "type": "project",
-      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core/BotEngine.Core.csproj",
-      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core/BotEngine.Core.csproj"
+      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core/SmartControllerAutomationFramework.Core.csproj",
+      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core/SmartControllerAutomationFramework.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "BotEngine.Core >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
-      "RabbitMQ.Client >= 5.0.1"
+      "RabbitMQ.Client >= 5.0.1",
+      "SmartControllerAutomationFramework.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4211,9 +4211,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine\\BotEngine.csproj",
-      "projectName": "BotEngine",
-      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine\\BotEngine.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine\\SmartControllerAutomationFramework.csproj",
+      "projectName": "SmartControllerAutomationFramework",
+      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine\\SmartControllerAutomationFramework.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
       "outputPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine\\obj\\",
       "projectStyle": "PackageReference",
@@ -4234,8 +4234,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj": {
-              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj"
+            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj"
             }
           }
         }

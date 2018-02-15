@@ -197,41 +197,41 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "BotEngine.Core/1.0.0": {
+      "SmartControllerAutomationFramework.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "compile": {
-          "bin/placeholder/BotEngine.Core.dll": {}
+          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BotEngine.Core.dll": {}
+          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
         }
       },
-      "BotEngine.Core.Bll/1.0.0": {
+      "SmartControllerAutomationFramework.Core.Bll/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "BotEngine.Core": "1.0.0",
-          "BotEngine.Core.Dal": "1.0.0"
+          "SmartControllerAutomationFramework.Core": "1.0.0",
+          "SmartControllerAutomationFramework.Core.Dal": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/BotEngine.Core.Bll.dll": {}
+          "bin/placeholder/SmartControllerAutomationFramework.Core.Bll.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BotEngine.Core.Bll.dll": {}
+          "bin/placeholder/SmartControllerAutomationFramework.Core.Bll.dll": {}
         }
       },
-      "BotEngine.Core.Dal/1.0.0": {
+      "SmartControllerAutomationFramework.Core.Dal/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "BotEngine.Core": "1.0.0"
+          "SmartControllerAutomationFramework.Core": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/BotEngine.Core.Dal.dll": {}
+          "bin/placeholder/SmartControllerAutomationFramework.Core.Dal.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BotEngine.Core.Dal.dll": {}
+          "bin/placeholder/SmartControllerAutomationFramework.Core.Dal.dll": {}
         }
       }
     }
@@ -694,28 +694,28 @@
         "netstandard.library.nuspec"
       ]
     },
-    "BotEngine.Core/1.0.0": {
+    "SmartControllerAutomationFramework.Core/1.0.0": {
       "type": "project",
-      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core/BotEngine.Core.csproj",
-      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core/BotEngine.Core.csproj"
+      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core/SmartControllerAutomationFramework.Core.csproj",
+      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core/SmartControllerAutomationFramework.Core.csproj"
     },
-    "BotEngine.Core.Bll/1.0.0": {
+    "SmartControllerAutomationFramework.Core.Bll/1.0.0": {
       "type": "project",
-      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.Bll/BotEngine.Core.Bll.csproj",
-      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.Bll/BotEngine.Core.Bll.csproj"
+      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.Bll/SmartControllerAutomationFramework.Core.Bll.csproj",
+      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.Bll/SmartControllerAutomationFramework.Core.Bll.csproj"
     },
-    "BotEngine.Core.Dal/1.0.0": {
+    "SmartControllerAutomationFramework.Core.Dal/1.0.0": {
       "type": "project",
-      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.Dal/BotEngine.Core.Dal.csproj",
-      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.Dal/BotEngine.Core.Dal.csproj"
+      "path": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.Dal/SmartControllerAutomationFramework.Core.Dal.csproj",
+      "msbuildProject": "../BeautySalon.BotEngine.Core/BeautySalon.BotEngine.Core.Dal/SmartControllerAutomationFramework.Core.Dal.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "BotEngine.Core >= 1.0.0",
-      "BotEngine.Core.Bll >= 1.0.0",
-      "BotEngine.Core.Dal >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "SmartControllerAutomationFramework.Core >= 1.0.0",
+      "SmartControllerAutomationFramework.Core.Bll >= 1.0.0",
+      "SmartControllerAutomationFramework.Core.Dal >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -728,9 +728,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Bll\\BotEngine.Bll.csproj",
-      "projectName": "BotEngine.Bll",
-      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Bll\\BotEngine.Bll.csproj",
+      "projectUniqueName": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Bll\\SmartControllerAutomationFramework.Bll.csproj",
+      "projectName": "SmartControllerAutomationFramework.Bll",
+      "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Bll\\SmartControllerAutomationFramework.Bll.csproj",
       "packagesPath": "C:\\Users\\atregubov\\.nuget\\packages\\",
       "outputPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Bll\\obj\\",
       "projectStyle": "PackageReference",
@@ -751,14 +751,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj": {
-              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\BotEngine.Core.csproj"
+            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj"
             },
-            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\BotEngine.Core.Dal.csproj": {
-              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Dal\\BotEngine.Core.Dal.csproj"
+            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj"
             },
-            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Bll\\BotEngine.Core.Bll.csproj": {
-              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Bll\\BotEngine.Core.Bll.csproj"
+            "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Bll\\SmartControllerAutomationFramework.Core.Bll.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\BotEngine\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core.Bll\\SmartControllerAutomationFramework.Core.Bll.csproj"
             }
           }
         }
