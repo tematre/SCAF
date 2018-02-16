@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Dal
 {
-    public class BotInstanceEntity
+    public class ControllerInstanceEntity
     {
         public Guid Id { get; set; }
 
