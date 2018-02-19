@@ -1,6 +1,0 @@
-C:\tmp\BeautySalon\BotEngine\BotEngine.AutofacBuilder\bin\Debug\netcoreapp2.0\BotEngine.AutofacBuilder.deps.json
-C:\tmp\BeautySalon\BotEngine\BotEngine.AutofacBuilder\bin\Debug\netcoreapp2.0\BotEngine.AutofacBuilder.dll
-C:\tmp\BeautySalon\BotEngine\BotEngine.AutofacBuilder\obj\Debug\netcoreapp2.0\BotEngine.AutofacBuilder.csprojResolveAssemblyReference.cache
-C:\tmp\BeautySalon\BotEngine\BotEngine.AutofacBuilder\obj\Debug\netcoreapp2.0\BotEngine.AutofacBuilder.csproj.CoreCompileInputs.cache
-C:\tmp\BeautySalon\BotEngine\BotEngine.AutofacBuilder\obj\Debug\netcoreapp2.0\BotEngine.AutofacBuilder.AssemblyInfoInputs.cache
-C:\tmp\BeautySalon\BotEngine\BotEngine.AutofacBuilder\obj\Debug\netcoreapp2.0\BotEngine.AutofacBuilder.AssemblyInfo.cs

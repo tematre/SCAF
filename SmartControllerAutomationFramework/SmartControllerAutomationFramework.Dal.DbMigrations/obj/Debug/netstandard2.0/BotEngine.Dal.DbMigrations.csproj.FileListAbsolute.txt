@@ -1,6 +1,0 @@
-C:\tmp\BeautySalon\BotEngine\BotEngine.Dal.DbMigrations\bin\Debug\netstandard2.0\BotEngine.Dal.DbMigrations.deps.json
-C:\tmp\BeautySalon\BotEngine\BotEngine.Dal.DbMigrations\bin\Debug\netstandard2.0\BotEngine.Dal.DbMigrations.dll
-C:\tmp\BeautySalon\BotEngine\BotEngine.Dal.DbMigrations\obj\Debug\netstandard2.0\BotEngine.Dal.DbMigrations.csprojResolveAssemblyReference.cache
-C:\tmp\BeautySalon\BotEngine\BotEngine.Dal.DbMigrations\obj\Debug\netstandard2.0\BotEngine.Dal.DbMigrations.csproj.CoreCompileInputs.cache
-C:\tmp\BeautySalon\BotEngine\BotEngine.Dal.DbMigrations\obj\Debug\netstandard2.0\BotEngine.Dal.DbMigrations.AssemblyInfoInputs.cache
-C:\tmp\BeautySalon\BotEngine\BotEngine.Dal.DbMigrations\obj\Debug\netstandard2.0\BotEngine.Dal.DbMigrations.AssemblyInfo.cs
