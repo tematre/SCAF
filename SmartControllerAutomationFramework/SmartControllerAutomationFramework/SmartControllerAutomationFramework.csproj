@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BeautySalon.BotEngine.Core\BeautySalon.BotEngine.Core\SmartControllerAutomationFramework.Core.csproj" />
+    <ProjectReference Include="..\SmartControllerAutomationFramework.Core\SmartControllerAutomationFramework.Core.Bll\SmartControllerAutomationFramework.Core.Bll.csproj" />
     <ProjectReference Include="..\SmartControllerAutomationFramework.Core\SmartControllerAutomationFramework.Core\SmartControllerAutomationFramework.Core.csproj" />
   </ItemGroup>
 

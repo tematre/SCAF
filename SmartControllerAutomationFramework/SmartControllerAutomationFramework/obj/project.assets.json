@@ -1186,6 +1186,21 @@
         "runtime": {
           "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
         }
+      },
+      "SmartControllerAutomationFramework.Core.Bll/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj": "1.0.0",
+          "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj": "1.0.0",
+          "SmartControllerAutomationFramework.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SmartControllerAutomationFramework.Core.Bll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartControllerAutomationFramework.Core.Bll.dll": {}
+        }
       }
     }
   },
@@ -4192,6 +4207,11 @@
       "type": "project",
       "path": "../SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core.csproj",
       "msbuildProject": "../SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core.csproj"
+    },
+    "SmartControllerAutomationFramework.Core.Bll/1.0.0": {
+      "type": "project",
+      "path": "../SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core.Bll/SmartControllerAutomationFramework.Core.Bll.csproj",
+      "msbuildProject": "../SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core.Bll/SmartControllerAutomationFramework.Core.Bll.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4199,7 +4219,8 @@
       "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj",
       "Microsoft.NETCore.App >= 2.0.0",
       "RabbitMQ.Client >= 5.0.1",
-      "SmartControllerAutomationFramework.Core >= 1.0.0"
+      "SmartControllerAutomationFramework.Core >= 1.0.0",
+      "SmartControllerAutomationFramework.Core.Bll >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4240,6 +4261,9 @@
             },
             "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.csproj": {
               "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.csproj"
+            },
+            "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.Bll\\SmartControllerAutomationFramework.Core.Bll.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.Bll\\SmartControllerAutomationFramework.Core.Bll.csproj"
             }
           }
         }
@@ -4278,6 +4302,24 @@
       "level": "Error",
       "message": "Unable to find project 'C:\\tmp\\botframework\\SmartControllerAutomationFramework\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj'. Check that the project reference is valid and that the project file exists.",
       "libraryId": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\BeautySalon.BotEngine.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"
       ]

@@ -196,6 +196,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "SmartControllerAutomationFramework.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartControllerAutomationFramework.Core.dll": {}
+        }
       }
     }
   },
@@ -656,13 +666,19 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "SmartControllerAutomationFramework.Core/1.0.0": {
+      "type": "project",
+      "path": "../SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core.csproj",
+      "msbuildProject": "../SmartControllerAutomationFramework.Core/SmartControllerAutomationFramework.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core.Dal\\SmartControllerAutomationFramework.Core.Dal.csproj",
       "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "SmartControllerAutomationFramework.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -703,6 +719,9 @@
             },
             "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj": {
               "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\BeautySalon.BotEngine.Core\\SmartControllerAutomationFramework.Core.csproj"
+            },
+            "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.csproj": {
+              "projectPath": "C:\\tmp\\botframework\\SmartControllerAutomationFramework\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core\\SmartControllerAutomationFramework.Core.csproj"
             }
           }
         }

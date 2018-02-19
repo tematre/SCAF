@@ -9,9 +9,8 @@ namespace BeautySalon.BotEngine.UniqObjects
     {
         private List<IUniqObject> _objects;
 
-        public UniqObjectPool(IAsyncResult)
+        public UniqObjectPool()
         {
-
         }
 
         public void Add(IUniqObject obj)
