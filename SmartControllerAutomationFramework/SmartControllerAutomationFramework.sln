@@ -27,7 +27,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartControllerAutomationFr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example", "Example", "{B7536811-06D5-4108-8FF4-6ADB44A8FC7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCAF.Example", "SCAF.Example\SCAF.Example.csproj", "{34A01F16-4220-4A85-B85E-1821A19A076B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SCAF.Example", "SCAF.Example\SCAF.Example.csproj", "{34A01F16-4220-4A85-B85E-1821A19A076B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
