@@ -3,7 +3,7 @@ using System;
 
 namespace BotEngine.AutofacBuilder
 {
-    public class BotEngineAutofacModule : Module
+    public class SmartControllerAutomationFrameworkAutofacModule : Module
     {
     }
 }

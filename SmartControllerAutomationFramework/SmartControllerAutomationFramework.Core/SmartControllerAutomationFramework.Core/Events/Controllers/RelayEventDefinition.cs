@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Events.RelayEvent
 {
-    public class RelayEventDefinition<EventTrigger, EventArguments> : BotEventDefinitionBase<EventTrigger, RelayEventHandler<IEventArguments>, EventArguments> 
+    public class RelayEventDefinition<EventTrigger, EventArguments> : ControllerEventDefinitionBase<EventTrigger, RelayEventHandler<IEventArguments>, EventArguments> 
         where EventArguments : IEventArguments
         where EventTrigger : IEventTrigger, new()
     {

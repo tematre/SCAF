@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BeautySalon.BotEngine.Core.Events.Bots
+namespace BeautySalon.BotEngine.Core.Queries.Bots
 {
-    public interface IBotEventDefinition : IEventDefinition
+    public interface IControllerQueryDefinition : IQueryDefinition
     {
         string Token { get; }
     }

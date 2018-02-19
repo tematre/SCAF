@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BeautySalon.BotEngine.Core.Commands
+namespace BeautySalon.BotEngine.Core.Events.Bots
 {
-    public interface IBotCommandDefinition : ICommandDefinition
+    public interface IControllerEventDefinition : IEventDefinition
     {
         string Token { get; }
     }

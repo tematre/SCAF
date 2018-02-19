@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Commands.Bots
 {
-    public class BotCommandsDispatcher : CommandsDispatcherBase<IBotCommandDefinition>, IBotsCommandsDispatcher
+    public class BotCommandsDispatcher : CommandsDispatcherBase<IControllerCommandDefinition>, IControllersCommandsDispatcher
     {
     }
 }

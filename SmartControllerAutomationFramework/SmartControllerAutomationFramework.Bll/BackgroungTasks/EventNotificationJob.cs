@@ -6,8 +6,8 @@ namespace BeautySalon.BotEngine.BackgroungTasks
     public class EventNotificationJob : IJob
     {
 
-        private IBotsEventsDispatcher _botsEventsDispatcher;
-        private IBotEventRisingQueue _eventRisingQueue;
+        private IControllersEventsDispatcher _botsEventsDispatcher;
+        private IControllerEventRisingQueue _eventRisingQueue;
 
         public void Run()
         {

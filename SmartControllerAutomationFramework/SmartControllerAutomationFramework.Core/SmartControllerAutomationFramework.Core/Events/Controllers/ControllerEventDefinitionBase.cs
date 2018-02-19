@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Events.Bots
 {
-    public abstract class BotEventDefinitionBase<EventTrigger, EventHandler, EventArguments> : EventDefinitionBase<EventTrigger, EventHandler, EventArguments>, IBotEventDefinition
+    public abstract class ControllerEventDefinitionBase<EventTrigger, EventHandler, EventArguments> : EventDefinitionBase<EventTrigger, EventHandler, EventArguments>, IControllerEventDefinition
                                                                     where EventTrigger : IEventTrigger
                                                                     where EventHandler : IEventHandler
                                                                     where EventArguments : IEventArguments

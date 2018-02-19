@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Commands
 {
-    public abstract class BotCommandDefinitionBase<HandlerType, ParamsType> : CommandDefinitionBase<HandlerType, ParamsType>, IBotCommandDefinition
+    public abstract class ControllerCommandDefinitionBase<HandlerType, ParamsType> : CommandDefinitionBase<HandlerType, ParamsType>, IControllerCommandDefinition
         where HandlerType : CommandHandlerBase<ParamsType>
         where ParamsType : ICommandParameters
     {

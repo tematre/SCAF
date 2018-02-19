@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Events.Bots
 {
-    public class BotsEventsDispatcher : EventsDispatcherBase<IBotEventDefinition>, IBotsEventsDispatcher
+    public class BotsEventsDispatcher : EventsDispatcherBase<IControllerEventDefinition>, IControllersEventsDispatcher
     {
     }
 }

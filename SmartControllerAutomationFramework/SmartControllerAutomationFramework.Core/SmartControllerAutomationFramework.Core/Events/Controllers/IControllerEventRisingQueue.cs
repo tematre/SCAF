@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Events.Bots
 {
-    public interface IBotEventRisingQueue : IEventRisingQueue<IBotEventDefinition>
+    public interface IControllerEventRisingQueue : IEventRisingQueue<IControllerEventDefinition>
     {
     }
 }

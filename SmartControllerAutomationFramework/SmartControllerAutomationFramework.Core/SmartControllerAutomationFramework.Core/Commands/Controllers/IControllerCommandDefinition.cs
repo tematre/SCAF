@@ -4,7 +4,8 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Commands
 {
-    public interface IBotsCommandsDispatcher : ICommandsDispatcher<IBotCommandDefinition, ICommandsStore<IBotCommandDefinition>>
+    public interface IControllerCommandDefinition : ICommandDefinition
     {
+        string Token { get; }
     }
 }

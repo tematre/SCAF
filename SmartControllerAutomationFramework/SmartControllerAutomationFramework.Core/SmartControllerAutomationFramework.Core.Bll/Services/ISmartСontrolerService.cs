@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Bll.Services
 {
-    public interface IBotСontrolService
+    public interface ISmartСontrolerService
     {
         void ExecuteCommand(string token, string commandName, string parameters);
 

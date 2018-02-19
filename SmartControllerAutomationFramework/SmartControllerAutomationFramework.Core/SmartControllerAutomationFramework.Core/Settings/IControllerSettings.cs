@@ -4,8 +4,8 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Settings
 {
-    public interface IBotSettingsValueProvider
+    public interface IControllerSettings : ISettings
     {
-        T GetSettingValue<T>(string settingCode, string token);
+        string Token { get; }
     }
 }

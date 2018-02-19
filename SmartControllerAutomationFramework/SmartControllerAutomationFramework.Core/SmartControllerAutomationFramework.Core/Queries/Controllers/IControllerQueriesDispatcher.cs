@@ -4,8 +4,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Core.Queries.Bots
 {
-    public interface IBotQueryDefinition : IQueryDefinition
+    public interface IControllerQueriesDispatcher : IQueriesDispatcher<IControllerQueryDefinition, IQueriesStore<IControllerQueryDefinition>>
     {
-        string Token { get; }
     }
 }

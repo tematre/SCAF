@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BeautySalon.BotEngine.Queries.Bots
 {
-    public class BotQueriesDispatcher : QueriesDispatcher<IBotQueryDefinition>
+    public class BotQueriesDispatcher : QueriesDispatcher<IControllerQueryDefinition>
     {
     }
 }
